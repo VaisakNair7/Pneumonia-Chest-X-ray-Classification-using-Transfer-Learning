@@ -1,0 +1,9 @@
+certifi==2021.5.30
+itsdangerous==2.0.1
+numpy==1.19.2
+Pillow==8.2.0
+streamlit==0.85.1
+tensorflow==2.5.0
+webencodings==0.5.1
+websocket-client==1.1.0
+Werkzeug==2.0.1
